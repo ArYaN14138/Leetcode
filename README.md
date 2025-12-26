@@ -31,4 +31,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArYaN14138/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/ArYaN14138/Leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
