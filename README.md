@@ -13,6 +13,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ArYaN14138/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ArYaN14138/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ArYaN14138/Leetcode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArYaN14138/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ArYaN14138/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/ArYaN14138/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArYaN14138/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ArYaN14138/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ArYaN14138/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -28,6 +30,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ArYaN14138/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArYaN14138/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ArYaN14138/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ArYaN14138/Leetcode/tree/master/0088-merge-sorted-array) |
